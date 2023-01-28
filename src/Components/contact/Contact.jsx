@@ -34,7 +34,7 @@ const Contact = () => {
               <span className="contact__card-data">+254 798-320-724</span>
 
               <a
-                href="https://api.whatsapp.com/send?phone=254798320724&text=Hello, more information!"
+                href="https://api.whatsapp.com/send?phone=254798320724&text=Hello,"
                 target="_blank"
                 className="contact__button"
               >
@@ -60,7 +60,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <div className="contact__content">
+        <div className="contact__content ">
           <h3 className="contact__title">Write me your project</h3>
 
           <form action="" className="contact__form">
@@ -84,7 +84,7 @@ const Contact = () => {
               />
             </div>
 
-            <div className="contact__form-div">
+            <div className="contact__form-div contact__form-area">
               <label className="contact__form-tag">Project</label>
               <textarea
                 name="project"
