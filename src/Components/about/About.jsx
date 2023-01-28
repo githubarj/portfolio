@@ -18,7 +18,7 @@ const About = () => {
           <More />
 
           <p className="about__description">
-            Full Stack developer specialising in the MERN stack. I am also a
+            I am Richard Jeremy Githuba a full Stack developer specialising in the MERN stack. I am also a
             blockchain developer, I have experience in building real life
             projects and deploying them.
           </p>
