@@ -16,7 +16,7 @@ export const projectsData = [
     id: 2,
     image: Work2,
     title: "Disney + Clone",
-    link: " https://disneyplus-7a180.web.app/Home ",
+    link: " https://disneyplus-7a180.web.app/",
     category: "app",
   },
   {
