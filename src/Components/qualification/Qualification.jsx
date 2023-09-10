@@ -55,7 +55,7 @@ const Qualification = () => {
                 </span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i>
-                  2019 - Present
+                  April 2019 - June 2023
                 </div>
               </div>
 
@@ -112,6 +112,13 @@ const Qualification = () => {
             }
           >
             <div className="qualification__data">
+              <div></div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+
               <div>
                 <h3 className="qualification__title">
                   Freelance Web Developer
@@ -119,7 +126,20 @@ const Qualification = () => {
                 <span className="qualification__subtitle">Self Employed</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i>
-                  2023 - Present
+                 January 2023 - Present
+                </div>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">
+                  Voluntary Librarian
+                </h3>
+                <span className="qualification__subtitle">Mc Millan National Library</span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i>
+                  February 2023 - March 2023
                 </div>
               </div>
 
@@ -142,7 +162,7 @@ const Qualification = () => {
                   Junior Developer (Attachee)
                 </h3>
                 <span className="qualification__subtitle">
-                  Office of the President, Kenya (POMAC) 
+                  Office of the President, Kenya (POMAC)
                 </span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i>
