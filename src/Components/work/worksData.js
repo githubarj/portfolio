@@ -86,9 +86,6 @@ export const projectsNav = [
     name: "live",
   },
   {
-    name: "practice",
-  },
-  {
     name: "blockchain",
   },
 ];
