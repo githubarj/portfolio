@@ -24,10 +24,19 @@ export const projectsData = [
     id: 6,
     image: "/worksImages/perfect-square-v1.png",
     title: "Perfect Square v1",
-    link: " https://perfectsquare.cc/",
+    link: "https://perfectsquare.cc/",
     category: "live",
     tag: "Live site",
   },
+  {
+    id: 10,
+    image: "/worksImages/pomac.png",
+    title: "EPMIS System",
+    link: "https://epmis.powerofmercy.go.ke/",
+    category: "live",
+    tag: "Live site",
+  },
+
   {
     id: 3,
     image: Work3,
