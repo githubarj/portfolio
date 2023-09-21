@@ -36,6 +36,22 @@ export const projectsData = [
     category: "live",
     tag: "Live site",
   },
+  {
+    id: 13,
+    image: "/worksImages/pomac.png",
+    title: "Self Driving Car",
+    link: "https://bright-youtiao-5596fa.netlify.app/",
+    category: "small projects",
+    tag: "Demo",
+  },
+  {
+    id: 14,
+    image: "/worksImages/pomac.png",
+    title: "Random Password Generator",
+    link: "https://bright-youtiao-5596fa.netlify.app/",
+    category: "small projects",
+    tag: "Demo",
+  },
 
   {
     id: 3,
@@ -58,7 +74,7 @@ export const projectsData = [
     image: "/worksImages/airbnb-experiences.png",
     title: "Airbnb Experiences",
     link: "https://thunderous-faloodeh-043d1a.netlify.app/",
-    category: "practice",
+    category: "small projects",
     tag: "Demo",
   },
   {
@@ -66,7 +82,7 @@ export const projectsData = [
     image: "/worksImages/travel-journal.png",
     title: "Travel Journal",
     link: "https://lucent-basbousa-af899a.netlify.app/ ",
-    category: "practice",
+    category: "small projects",
     tag: "Demo",
   },
   {
@@ -74,7 +90,7 @@ export const projectsData = [
     image: "/worksImages/mem-generator.png",
     title: "Meme Generator",
     link: " https://charming-piroshki-1827e3.netlify.app/ ",
-    category: "practice",
+    category: "small projects",
     tag: "Demo",
   },
   {
@@ -85,6 +101,14 @@ export const projectsData = [
     category: "blockchain",
     tag: "Repository",
   },
+  {
+    id: 12,
+    image: "",
+    title: "React Forms",
+    link: "https://dreamy-horse-632384.netlify.app/",
+    category: "small projects",
+    tag: "Demo",
+  },
 ];
 
 export const projectsNav = [
@@ -93,6 +117,9 @@ export const projectsNav = [
   },
   {
     name: "live",
+  },
+  {
+    name: "small projects"
   },
   {
     name: "blockchain",
