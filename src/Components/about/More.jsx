@@ -10,7 +10,7 @@ const More = () => {
         <span className="about__subtitle">2 Years Coding</span>
       </div>
 
-      <div className="about__box">
+      <div className="about__box vb">
         <i class="bx bx-briefcase-alt about__icon "></i>
         <h3 className="about__title">Completed</h3>
 

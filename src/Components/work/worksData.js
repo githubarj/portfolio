@@ -55,7 +55,7 @@ export const projectsData = [
 
   {
     id: 3,
-    image: Work3,
+    image: Work3 ,
     title: " Blockchain-Covid-Certificates ",
     link: "https://github.com/githubarj/Blockchain-Covid-Certificates",
     category: "blockchain",
