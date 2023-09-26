@@ -13,6 +13,14 @@ export const projectsData = [
     tag: "Live site",
   },
   {
+    id: 15,
+    image: "/worksImages/markdown-notes.png",
+    title: "Markdown Notes",
+    link: "https://celadon-empanada-0a066e.netlify.app/",
+    category: "live",
+    tag: "Libe Site",
+  },
+  {
     id: 2,
     image: "/worksImages/changia.png",
     title: "Changia",
@@ -38,7 +46,7 @@ export const projectsData = [
   },
   {
     id: 13,
-    image: "/worksImages/pomac.png",
+    image: "/worksImages/self-driving.png",
     title: "Self Driving Car",
     link: "https://bright-youtiao-5596fa.netlify.app/",
     category: "small projects",
@@ -46,7 +54,7 @@ export const projectsData = [
   },
   {
     id: 14,
-    image: "/worksImages/pomac.png",
+    image: "/worksImages/password.png",
     title: "Random Password Generator",
     link: "https://bright-youtiao-5596fa.netlify.app/",
     category: "small projects",
@@ -55,7 +63,7 @@ export const projectsData = [
 
   {
     id: 3,
-    image: Work3 ,
+    image: Work3,
     title: " Blockchain-Covid-Certificates ",
     link: "https://github.com/githubarj/Blockchain-Covid-Certificates",
     category: "blockchain",
@@ -100,14 +108,6 @@ export const projectsData = [
     link: " https://github.com/githubarj/Melodius_final ",
     category: "blockchain",
     tag: "Repository",
-  },
-  {
-    id: 12,
-    image: "",
-    title: "React Forms",
-    link: "https://dreamy-horse-632384.netlify.app/",
-    category: "small projects",
-    tag: "Demo",
   },
 ];
 
