@@ -18,7 +18,7 @@ export const projectsData = [
     title: "Markdown Notes",
     link: "https://celadon-empanada-0a066e.netlify.app/",
     category: "live",
-    tag: "Libe Site",
+    tag: "Live Site",
   },
   {
     id: 2,
@@ -38,9 +38,9 @@ export const projectsData = [
   },
   {
     id: 10,
-    image: "/worksImages/pomac.png",
-    title: "EPMIS System",
-    link: "https://epmis.powerofmercy.go.ke/",
+    image: "/worksImages/vanslife.png",
+    title: "Vans Life",
+    link: "https://majestic-manatee-ecd9af.netlify.app/",
     category: "live",
     tag: "Live site",
   },
