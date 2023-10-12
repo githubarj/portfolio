@@ -29,6 +29,14 @@ export const projectsData = [
     tag: "Live site",
   },
   {
+    id: 21,
+    image: "/worksImages/disney+clone.png",
+    title: "Disney + Clone",
+    link: "https://visionary-muffin-60bb46.netlify.app/Home",
+    category: "live",
+    tag: "Live site",
+  },
+  {
     id: 6,
     image: "/worksImages/perfect-square-v1.png",
     title: "Perfect Square v1",
